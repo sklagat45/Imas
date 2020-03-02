@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56014356803",
+    "firebase_url": "https://imas-21216.firebaseio.com",
+    "project_id": "imas-21216",
+    "storage_bucket": "imas-21216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56014356803:android:0623c2ad8a60bda11deff6",
+        "android_client_info": {
+          "package_name": "com.sklagat46.imas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56014356803-f9ohj5gmop43t7oi3di0k6o2gpjh5rs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sklagat46.imas",
+            "certificate_hash": "54cfb99901c394314e8c486c9f27af98a6d51592"
+          }
+        },
+        {
+          "client_id": "56014356803-ducrv4lg63bt0ekt3k0r0fca8k7d73j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzuqbXtaZI50CGxB4gpSlLFjGTkVZzqVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56014356803-ducrv4lg63bt0ekt3k0r0fca8k7d73j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<!--    //Create an <item> element for every action//-->
+
+    <item
+        android:id="@+id/gallery_action"
+        android:orderInCategory="101"
+        android:title="@string/action_gallery"
+        android:icon="@drawable/ic_gallery"
+        app:showAsAction="ifRoom"/>
+
+</menu>
